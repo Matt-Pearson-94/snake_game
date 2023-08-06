@@ -1,0 +1,13 @@
+body {
+    width: auto;
+    height: 100vh;
+    /* display: flex; */
+    margin: 0;
+    text-align: center;
+    background-color: rgb(25, 25, 25);
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(223, 250, 149);
+}
